@@ -2,3 +2,5 @@ This repository is for creating simple programs (such as solutions to Project Eu
 
 
 Currently doing Haskell, Lisp, and Prolog.
+
+*Note: TDD Development only
